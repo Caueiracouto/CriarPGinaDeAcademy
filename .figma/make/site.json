@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a comprehensive academy platform for Genesis Consulting, providing users with access to training resources and courses to enhance their skills.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
